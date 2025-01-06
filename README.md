@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paharlaya
-- 🚀 Hi, I’m Paharlaya! SFDC Developer
+- 🚀Salesforce Developer
 - 🔧 Tech Stack: Salesforce CRM, Apex, Lightning Web Components (LWC), Visualforce, SOQL, and REST API. **
       Web Development: HTML, CSS, JavaScript, React. **
       Tools & Platforms: Salesforce CPQ, ServiceNow, HubSpot, Cacheflow, ServiceBell, Chorus.ai, LinkedIn Sales Navigator, ZoomInfo, Oracle.
