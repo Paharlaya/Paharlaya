@@ -5,11 +5,11 @@ From Sales Cloud to Education Cloud, I craft solutions that help organizations w
 - 🔧 Tech Stack: Salesforce CRM, Apex, Lightning Web Components (LWC), Visualforce, SOQL, and REST API.
       Web Development: HTML, CSS, JavaScript, React.
       Tools & Platforms: Salesforce CPQ, ServiceNow, HubSpot, Cacheflow, ServiceBell, Chorus.ai, LinkedIn Sales Navigator, ZoomInfo, Oracle.
-- 💼Custom CPQ Solution Implementation for GS USA*
-*Pricing Engine for Travel Cost Calculation using LWC
-*Salesforce Integration with HubSpot, Cacheflow, and Other Platforms
-*Enterprise Application System: Child-Parent Tagging of Opportunities
-*Experience Builder Implementation for Custom User Interface Design
+- 💼Custom CPQ Solution Implementation for GS USA**
+**Pricing Engine for Travel Cost Calculation using LWC**
+**Salesforce Integration with HubSpot, Cacheflow, and Other Platforms**
+**Enterprise Application System: Child-Parent Tagging of Opportunities**
+**Experience Builder Implementation for Custom User Interface Design**
 - 📫 How to reach me - paharlayabasnet@gmail.com
 
 <!---
