@@ -9,7 +9,6 @@
 **Enterprise Application System: Child-Parent Tagging of Opportunities
 **Experience Builder Implementation for Custom User Interface Design
 - 📫 How to reach me - paharlayabasnet@gmail.com
-- +91 6294399916
 
 <!---
 Paharlaya/Paharlaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
